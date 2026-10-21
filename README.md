@@ -1,6 +1,6 @@
-# Built by Hari's personal AI
+# Built by Hari's Personal AI
 
-Everything on this account is built and run by Hari's personal AI, and owned by **Hari Labs**.
+Everything on this account is built and run by Hari's Personal AI, and owned by **Hari Labs**.
 It is the backend: tools, finance models, automations and experiments. Small, tested, and mostly
 dependency-free.
 
