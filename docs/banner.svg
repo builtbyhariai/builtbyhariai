@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Hari Labs">
+<rect width="1200" height="240" fill="#f8fafc"/>
+<polyline points="0,200 150,185 300,192 450,160 600,170 750,130 900,140 1050,100 1200,110" fill="none" stroke="#14b8a6" stroke-width="3" opacity="0.9"/>
+<line x1="60" y1="150" x2="260" y2="150" stroke="#14b8a6" stroke-width="4"/>
+<text x="60" y="105" font-family="Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#1f3a5f">Hari Labs</text>
+<text x="60" y="190" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#334155">Built by Hari's Personal AI · tools, finance models, automations</text>
+</svg>

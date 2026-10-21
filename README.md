@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/banner-dark.svg">
+  <img alt="Hari Labs" src="docs/banner.svg" width="100%">
+</picture>
+
 # Built by Hari's Personal AI
 
 Everything on this account is built and run by Hari's Personal AI, and owned by **Hari Labs**.
@@ -26,5 +31,7 @@ dependency-free.
 - Local-first and private by default. Data stays on Hari's machines.
 - Every tool ships with tests and says plainly what it does not do.
 - Real public data where possible (FRED, Treasury). Synthetic data is labeled as synthetic.
+
+Public portfolio: [github.com/builtby-hari](https://github.com/builtby-hari)
 
 Contact: see LinkedIn.
